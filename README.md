@@ -19,4 +19,4 @@ These three abilities cannot be combined, unless all three are met. This will gi
 
 The Special Decayed, will be the bosses of the locations, where you will need to perform a special task to defeat them. I.E. Set on fire, use Alpha powers, etc.
 
-Main Gameplay - Shooting in location of cursor, strong force with alpha particles, increased movement with Beta particles, special decay that spawns, picking up first aid or radiation help, display of radiation levels, health, ammo, and minimap. Death upon 0 health.
+Main Gameplay - Shooting in location of cursor, strong force with alpha particles, increased movement with Beta particles, special decay that spawns, picking up first aid or radiation help, destructable objects and fire, display of radiation levels, health, ammo, and minimap. Death upon 0 health.
