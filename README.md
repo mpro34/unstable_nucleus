@@ -18,3 +18,5 @@ C. Gamma - You get the "Hide" ability and keep your pistol, where you can mask y
 These three abilities cannot be combined, unless all three are met. This will give you an undetermined power. However, after it's effects you will be very weak and slow, needing a First Aid kit to heal yourself.
 
 The Special Decayed, will be the bosses of the locations, where you will need to perform a special task to defeat them. I.E. Set on fire, use Alpha powers, etc.
+
+Main Gameplay - Shooting in location of cursor, strong force with alpha particles, increased movement with Beta particles, special decay that spawns, picking up first aid or radiation help, display of radiation levels, health, ammo, and minimap. Death upon 0 health.
